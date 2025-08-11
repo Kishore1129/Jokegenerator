@@ -1,7 +1,5 @@
 # 😂 Joke Generator 🤖  
 
-![Project Banner](images/joke-screenshot.png)
-
 A fun and light-hearted web application that delivers random programming jokes using the JokeAPI. Clean UI, refreshing experience, and developer-friendly humor — all in one click!
 
 ## Table of Contents
